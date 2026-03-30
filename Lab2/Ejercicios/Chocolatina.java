@@ -1,4 +1,6 @@
 // Clase Chocolatina - Actividad 3
+package Lab2.Ejercicios;
+
 public class Chocolatina {
 
     private String marca;

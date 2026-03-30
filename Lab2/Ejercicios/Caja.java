@@ -1,5 +1,7 @@
 // Clase Caja generica - Ejercicio 3
 // Cada caja tiene un color y almacena un objeto de tipo T
+package Lab2.Ejercicios;
+
 public class Caja<T> {
 
     private String color;

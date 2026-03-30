@@ -1,4 +1,4 @@
-package Lab2;
+package Lab2.Actividades;
 
 public class Principal {
 

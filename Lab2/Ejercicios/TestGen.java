@@ -1,4 +1,6 @@
 // Clase TestGen - Ejercicios 1, 2, 5, 6 y 7
+package Lab2.Ejercicios;
+
 public class TestGen {
 
     // -------------------------------------------------------

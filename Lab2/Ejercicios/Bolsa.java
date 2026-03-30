@@ -1,3 +1,5 @@
+package Lab2.Ejercicios;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

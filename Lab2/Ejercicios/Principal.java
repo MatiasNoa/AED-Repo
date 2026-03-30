@@ -1,4 +1,6 @@
 // Clase Principal - Actividad 4 y 7
+package Lab2.Ejercicios;
+
 public class Principal {
 
     // Actividad 7 / Ejercicio 2: metodo generico para mostrar cualquier bolsa

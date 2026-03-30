@@ -1,4 +1,6 @@
 // Clase Golosina - Actividad 3
+package Lab2.Ejercicios;
+
 public class Golosina {
 
     private String nombre;

@@ -41,7 +41,6 @@ public class Principal {
         double y2 = sc.nextDouble();
 
         Rectangulo A = new Rectangulo(new Coordenada(x1, y1), new Coordenada(x2, y2));
-        A.normalizar();
         contenedor.addRectangulo(A);
 
         // Leer rectangulo B
@@ -53,7 +52,6 @@ public class Principal {
         double y4 = sc.nextDouble();
 
         Rectangulo B = new Rectangulo(new Coordenada(x3, y3), new Coordenada(x4, y4));
-        B.normalizar();
         contenedor.addRectangulo(B);
 
         // Mostrar rectangulos

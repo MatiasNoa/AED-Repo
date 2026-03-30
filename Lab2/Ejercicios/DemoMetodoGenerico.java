@@ -1,4 +1,6 @@
 // Clase DemoMetodoGenerico - Actividades 5 y 6
+package Lab2.Ejercicios;
+
 class DemoMetodoGenerico {
 
     // Metodo generico: determina si dos arreglos son iguales (mismo orden y contenido)

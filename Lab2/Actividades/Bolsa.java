@@ -1,4 +1,4 @@
-package Lab2;
+package Lab2.Actividades;
 
 import java.util.ArrayList;
 import java.util.Iterator;
