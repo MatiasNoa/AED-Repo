@@ -1,5 +1,6 @@
+package Lab5;
 // Representa una tarea con título y nivel de prioridad
-public class Tarea {
+public class Tarea{
 
     private String titulo;
     private int prioridad;  // 1=baja, 2=media, 3=alta
@@ -24,6 +25,7 @@ public class Tarea {
         Tarea otra = (Tarea) obj;
         return this.titulo.equals(otra.titulo) && this.prioridad == otra.prioridad;
     }
+
 
     @Override
     public String toString() {

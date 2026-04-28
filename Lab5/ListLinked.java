@@ -1,3 +1,4 @@
+package Lab5;
 // Implementación de lista enlazada genérica
 public class ListLinked<T> implements TDAList<T> {
 
@@ -65,6 +66,7 @@ public class ListLinked<T> implements TDAList<T> {
     public void removeNode(T x) {
         if (isEmptyList()) return;
 
+        // Nodo a remover en posición inicial
         if (first.value.equals(x)) {
             first = first.next;
             return;

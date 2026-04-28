@@ -1,3 +1,4 @@
+package Lab5;
 // Define las operaciones básicas que debe tener una lista enlazada
 public interface TDAList<T> {
 

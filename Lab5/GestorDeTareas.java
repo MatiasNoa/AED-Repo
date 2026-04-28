@@ -1,3 +1,4 @@
+package Lab5;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -76,7 +77,7 @@ public class GestorDeTareas<T> {
         while (current != null) {
             next = current.next;   // guardar referencia al siguiente
             current.next = prev;   // invertir el enlace
-            prev = current;        // avanzar prev
+            prev = current;            // avanzar prev
             current = next;        // avanzar current
         }
 
